@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_IT_@_RMIT-0F172A?style=for-the-badge" />
   <a href="https://www.facebook.com/tanphuc.huynh.33449/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/tấn-phúc-huỳnh-82b708244/"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tấn-phúc-huỳnh-82b708244/"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Add more: LinkedIn / Portfolio / Email badges here -->
 </p>
 
