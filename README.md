@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me
 
-<a href="https://github.com/rmit-nct"><img align="right" width="130" src="./nct-logo-spin.png" alt="RMIT Neo Culture Tech logo" /></a>
+<a href="https://github.com/rmit-nct"><img align="right" width="130" src="https://raw.githubusercontent.com/travinhcot/travinhcot/main/nct-logo-spin.png" alt="RMIT Neo Culture Tech logo" /></a>
 
 - 🎓 IT student at **RMIT University Vietnam**
 - 🛠️ **Technology Manager** at [RMIT Neo Culture Tech](https://github.com/rmit-nct) — I lead [**NCT Hub**](https://github.com/rmit-nct/hub), the club's platform for free student tools, and help other clubs keep their websites running
@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/22D3EE/travinhcot" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/travinhcot/travinhcot/output/snake-dark.svg" />
 </div>
 
 ---
